@@ -21,7 +21,7 @@ Specifically, I only used half the space bar (I only hit space with my right thu
 On this function layer, I can add the numpad to it. Since I would be using my left thumb for function, this numpad could be put on my right hand (I'm right handed). This removes the left-handed number pad layout on the [previous keyboard project](https://github.com/JonathanGWesterfield/Keyboard2019). While the left handed numpad actually worked extremely well (the left hand somehow uses the same muscle memory as the right hand), it added to the length of the keyboard, which went against the _Portability_ tenet.
 
 ### Problems
-In the last design, I was able to integrate a teensy controller direclty into the PCB by putting all of the pins in between the switches under the space bar. There was a large gap I could use. 
+In the last design, I was able to integrate a teensy controller directly into the PCB by putting all of the pins in between the switches under the space bar. There was a large gap I could use. You can see this in the PCB files, specifically in the PCB layout file.
 
 This split space bar keyboard is more dense and uses up that space. 
 
